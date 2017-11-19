@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditTextPreference
+        android:key="proximity_radius"
+        android:summary=""
+        android:defaultValue="10000"
+        android:title="Radio de proximidad"  />
+
+</PreferenceScreen>
